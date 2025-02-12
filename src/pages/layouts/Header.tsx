@@ -73,7 +73,7 @@ function Header () {
                                     </div>
                                     </nav>
                                 </div>
-                                <div className=" col-md-8 d_none">
+                                {/* <div className=" col-md-8 d_none">
                                     <ul className="conta_top">
                                     <li><i className="fa fa-phone" aria-hidden="true"></i> Call   + 01 1234567890</li>
                                     <li> <i className="fa fa-envelope" aria-hidden="true"></i><a href="Javascript:void(0)"> demo@gmail.com</a></li>
@@ -84,7 +84,7 @@ function Header () {
                                     <li className="d_none"><a href="Javascript:void(0)"><i className="fa fa-user" aria-hidden="true"></i></a></li>
                                     <li className="d_none"> <a href="Javascript:void(0)"><i className="fa fa-search" style={{cursor: "pointer" }}aria-hidden="true"></i></a> </li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
